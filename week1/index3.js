@@ -1,0 +1,1 @@
+document.getElementById("welcome").innerHTML = "Welcome To MY Website"
