@@ -1,4 +1,4 @@
-var newH1 = document.createElement("my-h1")
+var newH1 = document.createElement("h1")
 newH1.textContent = "Hello World"
 document.body.append(newH1)
 
@@ -20,5 +20,5 @@ var namelist = document.getElementById("names")
 for (var i = 0; i < names.length; i++){
     var newName = document.createElement("li")
     newName.textContent = names[i]
-    names.body.append(newName)
+    namelist.append(newName)
 }
