@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="header">
+      <h2>To Do List</h2>
+      <label for="new task-1">Title</label><input id="new-task-1" type="text"><br>
+      <input type="text" id="myInput" placeholder="Title...">
+      <span onclick="newElement()" class="addBtn">Add</span>
+    </div>
+    <ul id="myUL">
+      <li class="checked">Go to the car wash</li>
+      <li>Go grocery shopping</li>
+      <li>Pickup dry cleanin</li>
+    </ul>
+    <button type="button" id="clear-list" onclick="removeAll()">Clear Items</button>
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+body {
+    margin: 10px auto;
+    min-width: 250px;
+    max-width: 50%;
+    background-color: silver;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .header {
+    background-color: purple;
+    padding: 30px 40px;
+    color: white;
+    text-align: center;
+  }
+ 
+  
+
+ 
