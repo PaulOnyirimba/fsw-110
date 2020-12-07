@@ -7,7 +7,7 @@ body {
   * {
     box-sizing: border-box;
   }
-  .header {
+  #header {
     background-color: purple;
     padding: 30px 40px;
     color: white;

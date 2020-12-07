@@ -47,6 +47,8 @@ function newElement() {
     }
   }
 }
+
+
 //Clearing the list
 function removeAll(){
   var lst = document.getElementsByTagName("ul");
