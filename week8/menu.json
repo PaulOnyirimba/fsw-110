@@ -1,0 +1,52 @@
+{
+    
+    "appetizers": ["spinach dip", "cheese dip"],
+    "Cold sandwiches": ["Turkey Club", "Italian BMT"],
+    "Hot sandwiches": ["Cheeseburger", "Grilled Cheese"],
+    "desserts": ["ice cream", "donut"],
+    "drinks": ["fruit punch", "lemonade", "Peach soda"],
+    "spinach dip": {
+        "name": "Green dip",
+        "ingredients": "spinach",
+        "description": "filled with green savory spinach and creme"
+    },
+"cheese dip": {
+    "name": "orange dip",
+        "ingredients": "cheese",
+        "description": "filled with cheesy savory melted cheese"
+},
+"Turkey Club": {
+    "name": "turkey club",
+    "ingredients": "turkey, bread, lettuce,",
+"description": "nice turkey club sandwich on honey wheat toasted bread"
+},
+"Italian BMT": {
+    "name": "Italian monster",
+    "ingredients": "turkey, bread, lettuce, bacon, tomato",
+"description": "nice italian bmt sandwich on honey wheat toasted bread"
+},
+"Cheeseburger": {
+    "name": "Cheeseburger",
+    "ingredients": "beef, buns, lettuce, bacon, tomato",
+"description": "nice angus cheeseburger"
+},
+"Grilled Cheese": {
+    "name": "grilled cheese",
+    "ingredients": "toasted bread, cheese",
+    "description": "perfect grilled cheese sandwich"   
+},
+"ice cream": {
+    "name": "vanilla swirl",
+    "ingredients": "vanilla ice cream",
+    "description": "creamy vanilla ice cream"    
+},
+"lemonade": {
+    "name": "lemonade",
+    "ingredients": "lemons, water, sugar",
+    "description": "freshly squeezed lemonade"       
+}
+
+
+        
+
+}
